@@ -8,4 +8,4 @@ class Test_1(Base_Setup):
         print(self.driver.title)
         v = Excel.get_data("test_data/data.xlsx", "Sheet1", 1, 1)
         print("From excel", v)
-        print('Hi hello')
+        print('Hi hello bye')
