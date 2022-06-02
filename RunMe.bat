@@ -1,0 +1,1 @@
+pytest -vs --html=../B42AFW/test_output/report.html
